@@ -2,7 +2,7 @@
 ## 🧔 About Me
 
 
-- 🌱 Development Engineer | Passionate about crafting clean and efficient code | Code enthusiast with a love for problem-solving | Fluent in Java, Spring Boot, REST APIs, NoSQL databases.
+- 🌱 Development Engineer @Standard Chartered Bank | Passionate about crafting clean and efficient code | Code enthusiast with a love for problem-solving | Fluent in Java, Spring Boot, REST APIs, NoSQL databases.
 
 - 👯 I’m looking for **SDE opportunities**
 
